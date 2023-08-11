@@ -1,6 +1,6 @@
 /**
  * @class       : gh-api
- * @author      : Jason (casjaysdev@casjay.net)
+ * @author      : Jason (casjaysdev@casjay.pro)
  * @created     : Thursday Jul 23, 2020 19:22:45 EDT
  * @description : gh-api
  */
